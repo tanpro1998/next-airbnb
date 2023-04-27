@@ -67,7 +67,6 @@ const LoginModal = () => {
         register={register}
         errors={errors}
         required
-        // formatPrice
       />
 
       <Input
@@ -78,7 +77,6 @@ const LoginModal = () => {
         register={register}
         errors={errors}
         required
-        // formatPrice
       />
     </div>
   );
